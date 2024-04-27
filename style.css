@@ -1,0 +1,47 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightgray;
+}
+
+a:active {
+  color: darkgray;
+}
+
+body,
+a {
+ color: white; 
+}
+
+h1 {
+  font-size: 48px;
+}
+
+li {
+  margin: none;
+  padding: none;
+}
+
+ul {
+  list-style: square;
+  margin: none;
+  padding: none;
+}
+
+ol {
+  margin: none;
+  padding: none;
+}
+
+.list {
+  font-size: 24px;
+  list-style: none;
+  padding: none;
+}
